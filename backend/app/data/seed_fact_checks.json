@@ -1,0 +1,157 @@
+[
+  {
+    "id": "seed-001",
+    "raw_input": "Is it true that drinking hot water cures viral infections?",
+    "claim_text": "Drinking hot water kills or cures viral respiratory infections like the common cold, influenza, or coronavirus.",
+    "verdict": "False",
+    "confidence": 0.98,
+    "summary": "Medical consensus confirms drinking warm fluids may soothe throat discomfort and prevent dehydration, but water temperature cannot reach levels that neutralize viral pathogens inside cellular tissue without causing fatal esophageal burns.",
+    "supporting_evidence": [
+      {
+        "title": "Hydration Benefits During Respiratory Illness",
+        "url": "https://www.cdc.gov/flu/treatment/takingcare.htm",
+        "domain": "cdc.gov",
+        "snippet": "Staying hydrated with warm broths or water helps thin mucus and eases throat irritation during viral illnesses.",
+        "credibility_score": 0.97,
+        "stance": "support",
+        "source_name": "Centers for Disease Control and Prevention"
+      }
+    ],
+    "contradicting_evidence": [
+      {
+        "title": "WHO Mythbusters: Drinking water does not prevent viral infection",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+        "domain": "who.int",
+        "snippet": "There is no scientific evidence that drinking warm water or frequent sips of water washes viruses into the stomach or kills them in the respiratory tract.",
+        "credibility_score": 0.99,
+        "stance": "contradict",
+        "source_name": "World Health Organization"
+      },
+      {
+        "title": "Fact Check: Hot water does not eliminate viruses in the body",
+        "url": "https://www.reuters.com/article/factcheck-coronavirus-water-idUSL1N2LM29M",
+        "domain": "reuters.com",
+        "snippet": "Viruses replicate inside host cells, mainly in mucosal membranes. Drinking hot liquids cannot alter body core temperature or eliminate intracellular viruses.",
+        "credibility_score": 0.98,
+        "stance": "contradict",
+        "source_name": "Reuters Fact Check"
+      }
+    ],
+    "sources": [
+      { "title": "WHO Mythbusters", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters", "domain": "who.int", "credibility_score": 0.99 },
+      { "title": "Reuters Fact Check", "url": "https://www.reuters.com/article/factcheck-coronavirus-water-idUSL1N2LM29M", "domain": "reuters.com", "credibility_score": 0.98 },
+      { "title": "CDC Treatment Guidelines", "url": "https://www.cdc.gov/flu/treatment/takingcare.htm", "domain": "cdc.gov", "credibility_score": 0.97 }
+    ],
+    "category": "Health",
+    "topic": "Viral Infection Remedies",
+    "created_at": "2026-09-20T10:00:00Z"
+  },
+  {
+    "id": "seed-002",
+    "raw_input": "Forwarded message: UNESCO declared the Indian National Anthem as the best national anthem in the world.",
+    "claim_text": "UNESCO voted Jana Gana Mana as the best national anthem in the world.",
+    "verdict": "False",
+    "confidence": 0.99,
+    "summary": "This is a recurring hoax that has circulated since 2008. UNESCO has repeatedly issued public clarifications confirming it does not rank or award 'best national anthem' honors.",
+    "supporting_evidence": [],
+    "contradicting_evidence": [
+      {
+        "title": "UNESCO Clarification on National Anthem Rumors",
+        "url": "https://www.unesco.org/en/articles/official-statement-rumours",
+        "domain": "unesco.org",
+        "snippet": "UNESCO did not declare any country's national anthem as the best in the world. UNESCO has no such competition or award.",
+        "credibility_score": 0.98,
+        "stance": "contradict",
+        "source_name": "UNESCO"
+      },
+      {
+        "title": "Fact Check: UNESCO did not declare Indian Anthem as best",
+        "url": "https://www.snopes.com/fact-check/unesco-national-anthem/",
+        "domain": "snopes.com",
+        "snippet": "Viral email and WhatsApp forwards claiming UNESCO rated India's national anthem number one are completely fabricated.",
+        "credibility_score": 0.94,
+        "stance": "contradict",
+        "source_name": "Snopes"
+      }
+    ],
+    "sources": [
+      { "title": "UNESCO Official Statement", "url": "https://www.unesco.org/en/articles/official-statement-rumours", "domain": "unesco.org", "credibility_score": 0.98 },
+      { "title": "Snopes Fact Check", "url": "https://www.snopes.com/fact-check/unesco-national-anthem/", "domain": "snopes.com", "credibility_score": 0.94 }
+    ],
+    "category": "Social Media Hoax",
+    "topic": "Forwarded Messages",
+    "created_at": "2026-09-22T14:30:00Z"
+  },
+  {
+    "id": "seed-003",
+    "raw_input": "Is it true that James Webb Space Telescope detected signs of atmospheric water and carbon dioxide on exoplanet WASP-96b?",
+    "claim_text": "The James Webb Space Telescope confirmed the presence of water molecules in the atmosphere of exoplanet WASP-96b.",
+    "verdict": "True",
+    "confidence": 0.97,
+    "summary": "NASA, ESA, and CSA scientists released transmission spectra captured by JWST's NIRISS instrument confirming clear spectral signatures of water vapor in WASP-96b's atmosphere.",
+    "supporting_evidence": [
+      {
+        "title": "NASA's Webb Reveals Steamy Atmosphere on Distant Gas Giant",
+        "url": "https://www.nasa.gov/universe/webb-reveals-steamy-atmosphere-on-distant-gas-giant/",
+        "domain": "nasa.gov",
+        "snippet": "NASA's James Webb Space Telescope has revealed the unambiguous signature of water, along with evidence for clouds and haze, in the atmosphere surrounding a hot, puffy gas giant planet orbiting a distant Sun-like star.",
+        "credibility_score": 0.99,
+        "stance": "support",
+        "source_name": "NASA"
+      },
+      {
+        "title": "JWST transmission spectra of WASP-96b",
+        "url": "https://www.nature.com/articles/s41586-022-05269-w",
+        "domain": "nature.com",
+        "snippet": "Near-infrared transmission spectroscopy unambiguously identified H2O vibrational absorption bands in WASP-96b.",
+        "credibility_score": 0.99,
+        "stance": "support",
+        "source_name": "Nature"
+      }
+    ],
+    "contradicting_evidence": [],
+    "sources": [
+      { "title": "NASA Exoplanet Atmosphere Data", "url": "https://www.nasa.gov/universe/webb-reveals-steamy-atmosphere-on-distant-gas-giant/", "domain": "nasa.gov", "credibility_score": 0.99 },
+      { "title": "Nature Spectroscopy Paper", "url": "https://www.nature.com/articles/s41586-022-05269-w", "domain": "nature.com", "credibility_score": 0.99 }
+    ],
+    "category": "Science",
+    "topic": "Astronomy",
+    "created_at": "2026-09-24T09:15:00Z"
+  },
+  {
+    "id": "seed-004",
+    "raw_input": "Forwarded post says 5G mobile towers emit radiation causing respiratory illness.",
+    "claim_text": "5G mobile cellular networks emit harmful electromagnetic waves that trigger respiratory illness or suppress immunity.",
+    "verdict": "False",
+    "confidence": 0.99,
+    "summary": "Peer-reviewed scientific research and health authorities confirm radiofrequency waves used by 5G are non-ionizing and strictly governed by international safety thresholds that do not harm biological tissue or induce viral illness.",
+    "supporting_evidence": [],
+    "contradicting_evidence": [
+      {
+        "title": "5G mobile networks and health",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-5g-mobile-networks-and-health",
+        "domain": "who.int",
+        "snippet": "To date, and after much research conducted, no adverse health effect has been causally linked with exposure to wireless technologies.",
+        "credibility_score": 0.99,
+        "stance": "contradict",
+        "source_name": "World Health Organization"
+      },
+      {
+        "title": "Full Fact: 5G and illness myths debunked",
+        "url": "https://fullfact.org/online/5g-and-coronavirus-conspiracy-theories-came/",
+        "domain": "fullfact.org",
+        "snippet": "There is no biological mechanism connecting radio waves to infectious viral pathogens.",
+        "credibility_score": 0.95,
+        "stance": "contradict",
+        "source_name": "Full Fact"
+      }
+    ],
+    "sources": [
+      { "title": "WHO 5G Health Overview", "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-5g-mobile-networks-and-health", "domain": "who.int", "credibility_score": 0.99 },
+      { "title": "Full Fact Analysis", "url": "https://fullfact.org/online/5g-and-coronavirus-conspiracy-theories-came/", "domain": "fullfact.org", "credibility_score": 0.95 }
+    ],
+    "category": "Technology & Health",
+    "topic": "Telecommunications",
+    "created_at": "2026-09-25T11:45:00Z"
+  }
+]

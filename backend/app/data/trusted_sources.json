@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "reuters.com",
+    "name": "Reuters Fact Check",
+    "credibility_score": 0.98,
+    "bias_rating": "Least Biased",
+    "category": "Mainstream Wire Service",
+    "notes": "Global news agency with high editorial standards and transparent corrections policy."
+  },
+  {
+    "domain": "apnews.com",
+    "name": "Associated Press News",
+    "credibility_score": 0.98,
+    "bias_rating": "Least Biased",
+    "category": "Mainstream Wire Service",
+    "notes": "Charter member of the International Fact-Checking Network (IFCN)."
+  },
+  {
+    "domain": "snopes.com",
+    "name": "Snopes",
+    "credibility_score": 0.94,
+    "bias_rating": "Least Biased",
+    "category": "Dedicated Fact Checker",
+    "notes": "Pioneering online fact-checking site operating since 1994."
+  },
+  {
+    "domain": "politifact.com",
+    "name": "PolitiFact",
+    "credibility_score": 0.94,
+    "bias_rating": "Left-Center (slight)",
+    "category": "Dedicated Fact Checker",
+    "notes": "Pulitzer Prize-winning fact-checking website operated by Poynter Institute."
+  },
+  {
+    "domain": "factcheck.org",
+    "name": "FactCheck.org",
+    "credibility_score": 0.96,
+    "bias_rating": "Least Biased",
+    "category": "Academic Fact Checker",
+    "notes": "Project of the Annenberg Public Policy Center of the University of Pennsylvania."
+  },
+  {
+    "domain": "who.int",
+    "name": "World Health Organization",
+    "credibility_score": 0.99,
+    "bias_rating": "Scientific / Institutional",
+    "category": "Global Health Authority",
+    "notes": "Specialized agency of the UN responsible for international public health."
+  },
+  {
+    "domain": "cdc.gov",
+    "name": "Centers for Disease Control and Prevention",
+    "credibility_score": 0.97,
+    "bias_rating": "Scientific / Institutional",
+    "category": "Public Health Agency",
+    "notes": "United States national public health institute."
+  },
+  {
+    "domain": "bbc.com",
+    "name": "BBC Verify",
+    "credibility_score": 0.95,
+    "bias_rating": "Least Biased",
+    "category": "Public Broadcaster",
+    "notes": "Dedicated forensics, investigative reporting, and fact-checking division."
+  },
+  {
+    "domain": "nature.com",
+    "name": "Nature Journal",
+    "credibility_score": 0.99,
+    "bias_rating": "Scientific / Peer-Reviewed",
+    "category": "Peer-Reviewed Science",
+    "notes": "Leading international weekly scientific journal."
+  },
+  {
+    "domain": "thelancet.com",
+    "name": "The Lancet",
+    "credibility_score": 0.99,
+    "bias_rating": "Scientific / Peer-Reviewed",
+    "category": "Peer-Reviewed Medical",
+    "notes": "One of the world's highest-impact medical journals."
+  },
+  {
+    "domain": "afp.com",
+    "name": "AFP Fact Check",
+    "credibility_score": 0.96,
+    "bias_rating": "Least Biased",
+    "category": "Mainstream Wire Service",
+    "notes": "Global fact-checking network covering disinformation across 80+ countries."
+  },
+  {
+    "domain": "sciencemag.org",
+    "name": "Science / AAAS",
+    "credibility_score": 0.98,
+    "bias_rating": "Scientific / Peer-Reviewed",
+    "category": "Peer-Reviewed Science",
+    "notes": "Peer-reviewed academic journal of the American Association for the Advancement of Science."
+  },
+  {
+    "domain": "theguardian.com",
+    "name": "The Guardian",
+    "credibility_score": 0.88,
+    "bias_rating": "Left-Center",
+    "category": "Major Newspaper",
+    "notes": "British daily newspaper with solid factual reporting and investigative capacity."
+  },
+  {
+    "domain": "wsj.com",
+    "name": "The Wall Street Journal",
+    "credibility_score": 0.91,
+    "bias_rating": "Right-Center (Op-Ed) / High News",
+    "category": "Financial Daily",
+    "notes": "High factual accuracy in news reporting."
+  },
+  {
+    "domain": "nasa.gov",
+    "name": "NASA",
+    "credibility_score": 0.99,
+    "bias_rating": "Scientific / Institutional",
+    "category": "Government Science Agency",
+    "notes": "Authoritative agency for aerospace and climate science data."
+  }
+]

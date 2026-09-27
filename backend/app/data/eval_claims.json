@@ -1,0 +1,58 @@
+[
+  {
+    "id": "eval-01",
+    "claim": "Drinking hot water with lemon cures coronavirus and influenza within 24 hours.",
+    "ground_truth_verdict": "False",
+    "category": "Health",
+    "difficulty": "Easy",
+    "rationale": "Medical myth repeatedly debunked by WHO and CDC."
+  },
+  {
+    "id": "eval-02",
+    "claim": "NASA confirmed the James Webb Space Telescope observed water vapor in the atmosphere of WASP-96b.",
+    "ground_truth_verdict": "True",
+    "category": "Science",
+    "difficulty": "Easy",
+    "rationale": "Directly published scientific data from NASA/ESA in July 2022."
+  },
+  {
+    "id": "eval-03",
+    "claim": "UNESCO officially declared India's national anthem to be the best national anthem in the world.",
+    "ground_truth_verdict": "False",
+    "category": "Social Media Hoax",
+    "difficulty": "Easy",
+    "rationale": "Long-running internet hoax officially refuted by UNESCO."
+  },
+  {
+    "id": "eval-04",
+    "claim": "Eating carrots gives humans superhuman night vision capabilities.",
+    "ground_truth_verdict": "Misleading",
+    "category": "Historical/Health",
+    "difficulty": "Medium",
+    "rationale": "Vitamin A in carrots supports normal eye health and prevents deficiency blindness, but does not grant superhuman night vision. Originates from WWII British radar propaganda."
+  },
+  {
+    "id": "eval-05",
+    "claim": "An unidentified classified extraterrestrial artifact was recovered by an anonymous submarine in an undisclosed trench last week.",
+    "ground_truth_verdict": "Unverifiable",
+    "category": "Conspiracy / Unsubstantiated",
+    "difficulty": "Hard",
+    "rationale": "Lacks specific dates, named sources, official records, or empirical corroboration; must trigger Unverifiable guardrail."
+  },
+  {
+    "id": "eval-06",
+    "claim": "The Great Wall of China is the only man-made structure visible from the Moon with the naked human eye.",
+    "ground_truth_verdict": "False",
+    "category": "Geography / Space",
+    "difficulty": "Easy",
+    "rationale": "Debunked by NASA astronauts; no man-made structure is discernible from lunar distance without optics."
+  },
+  {
+    "id": "eval-07",
+    "claim": "Renewable energy from solar and wind produced more electricity in the European Union than fossil fuels in 2024.",
+    "ground_truth_verdict": "True",
+    "category": "Energy & Climate",
+    "difficulty": "Medium",
+    "rationale": "Confirmed by official Eurostat and Ember Energy reports."
+  }
+]

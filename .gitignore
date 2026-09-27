@@ -1,0 +1,17 @@
+# Python
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+backend/data/*.db
+
+# Node & Frontend
+Frontend/node_modules/
+Frontend/dist/
+.DS_Store
+
+# Exports
+backend/exports/*.md
